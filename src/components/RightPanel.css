@@ -1,0 +1,25 @@
+.right-panel {
+    width: 30%;
+    background-color: #ffffff;
+    padding: 20px;
+    border-left: 1px solid #ddd;
+  }
+  
+  .video-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .video-list li {
+    margin: 10px 0;
+  }
+  
+  .update-button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
